@@ -1,29 +1,17 @@
-# mondriaan
+# Mondriaan meets CSS Grid & Vue
+Randomized Mondriaan inspired art generated with Vue and CSS Grid. On each refresh or gerenerate new 'blocks' will be calculated with a random color assigned. The 'painting' is fully responsive.
+
+## Preview
+![](./preview/preview.gif)
 
 ## Project setup
-```
-npm install
-```
+``` bash
+# install dependencies
+$ npm install # Or yarn install
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# serve with hot reload at localhost:8080
+$ npm run serve
 
-### Compiles and minifies for production
+# build for production
+$ npm run build
 ```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
